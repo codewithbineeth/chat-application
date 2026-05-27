@@ -2,3 +2,4 @@
 
 
 this chat application is created to chat anonymously with friends.
+this application provides security.
